@@ -4,7 +4,7 @@
 
 >  null, undefined, number, string, boolean, symbol
 
-
+> Symbol，表示独一无二的值,消除魔术字符串
 
 #### Q1: null和undefined区别
 
